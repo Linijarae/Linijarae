@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on : **Getting better at coding and learning new skills**
 
-- 🌱 I’m currently learning : **Golang, HTML, CSS**
+- 🌱 I’m currently learning : **Golang, HTML, CSS, C++, JS, Java**
 
 - 💬 Ask me about : **how's the weather today, and I'll give you an honest answer !**
 
