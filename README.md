@@ -7,7 +7,7 @@
 
 - 💬 Ask me about : **how's the weather today, and I'll give you an honest answer !**
 
-- 📫 How to reach me : **alexis.dupin@ynov.com**
+- 📫 How to reach me : **dupin.alexis13@gmail.com**
 
 - ⚡ Fun fact : **I have lived in Tahiti for 2 years**
 
