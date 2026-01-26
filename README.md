@@ -11,5 +11,9 @@
 
 - ⚡ Fun fact : **I have lived in Tahiti for 2 years**
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linijarae&layout=compact&theme=dracula)
+
 <p align="left">
 </p>
