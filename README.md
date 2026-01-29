@@ -68,11 +68,10 @@
 
   <h2 align="center">📊 Activity & Intelligence</h2>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="" />
-    
-    <img src="https://readme-jokes.vercel.app/api?theme=radical" height="180" alt="Jokes Card" />
-  </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical" height="180" alt="Jokes Card" />
+</p>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linijarae&theme=radical&hide_border=true" alt="" />
 
@@ -82,9 +81,6 @@
   
   <a href="https://www.linkedin.com/in/alexisdupin1993" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/Linijarae" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   <a href="https://www.root-me.org/Linijarae" target="_blank">
     <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=root-me&logoColor=white" />
