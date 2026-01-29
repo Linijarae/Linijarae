@@ -51,21 +51,34 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autopsy-Forensic-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+
+  <br/><br/>
+
+  <h2 align="center">🛡️ Cybersecurity Skills</h2>
+
+  <img src="https://img.shields.io/badge/Forensics-DFIR-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-Investigation-green?style=for-the-badge&logo=tor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-Security-black?style=for-the-badge&logo=gnupg&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Steganography-Hidden_Data-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Governance-GRC_%26_Compliance-lightgrey?style=for-the-badge" />
 
   <br/><br/>
 
   <h2 align="center">📊 Activity & Intelligence</h2>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linijarae&layout=compact&theme=radical&hide_border=true" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linijarae&layout=compact&theme=radical&hide_border=true" height="150" alt="" />
+  </p>
+  
+  <p align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linijarae&theme=radical&hide_border=true" height="150" alt="" />
+     <img src="https://readme-jokes.vercel.app/api?theme=radical" height="150" alt="Jokes Card" />
   </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linijarae&theme=radical&hide_border=true" alt="" />
-
-  <br/><br/>
+  <br/>
 
   <h3>🌐 Connect with me</h3>
   
