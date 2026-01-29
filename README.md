@@ -4,7 +4,7 @@
   <h3 align="center">Cybersecurity Student @ Ynov Campus | CTF Creator</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Looking+for+Apprenticeship+(Alternance);More+than+10+Years+Professional+Maturity;CTF+Challenge+Creator+%40+Hack'in;Forensic+%7C+Scripting+%7C+Business-Centric+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Looking+for+Apprenticeship+%28Alternance%29;More+than+10+Years+Professional+Maturity;CTF+Challenge+Creator+%40+Hack%27in;Forensic+%7C+Scripting+%7C+Business-Centric+Security" alt="" />
   </a>
 
   <br/>
@@ -54,11 +54,11 @@
   <h3>📊 Activity & Stats</h3>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Linijarae's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linijarae&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linijarae&layout=compact&theme=radical&hide_border=true" alt="" />
   </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linijarae&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linijarae&theme=radical&hide_border=true" alt="" />
 
   <br/><br/>
 
@@ -69,6 +69,6 @@
   </a>
 
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Linijarae&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Linijarae&style=flat-square&color=blueviolet" alt="" />
 
 </div>
