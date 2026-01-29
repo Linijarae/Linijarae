@@ -69,16 +69,14 @@
   <h2 align="center">📊 Activity & Intelligence</h2>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linijarae&layout=compact&theme=radical&hide_border=true" height="150" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Linijarae&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="" />
+    
+    <img src="https://readme-jokes.vercel.app/api?theme=radical" height="180" alt="Jokes Card" />
   </p>
   
-  <p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linijarae&theme=radical&hide_border=true" height="150" alt="" />
-     <img src="https://readme-jokes.vercel.app/api?theme=radical" height="150" alt="Jokes Card" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linijarae&theme=radical&hide_border=true" alt="" />
 
-  <br/>
+  <br/><br/>
 
   <h3>🌐 Connect with me</h3>
   
