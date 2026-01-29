@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h1 align="center">Hi 👋, I'm Alexis Dupin (Linijarae)</h1>
+  <h1 align="center">Alexis Dupin (Linijarae)</h1>
   <h3 align="center">Cybersecurity Student @ Ynov Campus | CTF Creator</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Looking+for+Apprenticeship+(Alternance);10+Years+Professional+Maturity+%26+Soft+Skills;CTF+Challenge+Creator+%40+Hack'in;Forensic+%7C+Scripting+%7C+Business-Centric+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Looking+for+Apprenticeship+(Alternance); More+tahn+10+Years+Professional+Maturity+%26+Soft+Skills;CTF+Challenge+Creator+%40+Hack'in;Forensic+%7C+Scripting+%7C+Business-Centric+Security" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -12,9 +12,9 @@
   <br/>
 
   <p align="center">
-    Étudiant en <strong>Bachelor Cybersécurité</strong> combinant compétences techniques et <strong>10 ans d'expérience professionnelle</strong>[cite: 65].<br>
-    Au-delà du scripting et du réseau, j'apporte une <strong>maturité opérationnelle</strong>, une rigueur analytique (Lauréat Olympiades de Mathématiques [cite: 73]) et une vision stratégique de la sécurité des actifs.<br>
-    <i>Créateur de challenges pour le CTF Hack'in & Passionné de Forensic.</i>
+    Étudiant en <strong>Bachelor Cybersécurité</strong> combinant compétences techniques et <strong>10 ans d'expérience professionnelle</strong>.<br>
+    Au-delà du scripting et du réseau, j'apporte une <strong>maturité opérationnelle</strong>, une rigueur analytique (Lauréat Olympiades de Mathématiques) et une vision stratégique de la sécurité des actifs.<br>
+    <i>Créateur de challenges pour le CTF Hack'in & Passionné de Forensic, OSINT.</i>
   </p>
 
   <br/>
@@ -53,14 +53,8 @@
 
   <h3>🌐 Connect with me</h3>
   
-  <a href="https://www.linkedin.com/in/ton-profil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/alexisdupin1993" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/Linijarae" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://www.root-me.org/Linijarae" target="_blank">
-    <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=root-me&logoColor=white" />
   </a>
 
   <br/><br/>
