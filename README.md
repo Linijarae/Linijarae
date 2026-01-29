@@ -5,30 +5,23 @@
   </a>
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Alexis%20Dupin&fontSize=70&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Student%20@%20Ynov%20%7C%20Linijarae&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Alexis%20Dupin&fontSize=70&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Student%20@%20Ynov%20%7C%20Linijarae&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Looking+for+Apprenticeship+%28Alternance%29;More+than+10+Years+Professional+Maturity;CTF+Challenge+Creator+%40+Hack%27in;Forensic+%7C+Scripting+%7C+Business-Centric+Security" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Looking+for+Apprenticeship+%28Alternance%29;More+than+10+Years+Professional+Maturity;CTF+Challenge+Creator+%40+Hack%27in;Forensic+%7C+Scripting+%7C+Business-Centric+Security" alt="" />
   </a>
 
   <br/>
   
   <img src="https://github.com/Linijarae.png" width="140" style="border-radius: 50%; border: 4px solid #F75C7E; box-shadow: 0px 0px 20px #F75C7E;"/>
   
-  <br/><br/>
+  <br/>
 
-  <div align="left" style="width: 80%; background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <pre>
-<span style="color: #F75C7E;">root@Linijarae:~$</span> ./whoami.sh
-<span style="color: #79c0ff;">> Loading profile...</span>
-<span style="color: #d2a8ff;">Name:</span> Alexis Dupin
-<span style="color: #d2a8ff;">Role:</span> Cybersecurity Student & CTF Creator
-<span style="color: #d2a8ff;">XP:</span> <strong>10+ Years Professional Maturity</strong> (Production/Management)
-<span style="color: #d2a8ff;">Focus:</span> Forensic, Defensive Security, Tooling
-<span style="color: #d2a8ff;">Soft Skills:</span> Analytical Rigor (Maths Olympiads), Business Strategy
-<span style="color: #F75C7E;">root@Linijarae:~$</span> echo "Ready to work!"
-    </pre>
-  </div>
+  <p align="center" style="font-size: 1.1rem;">
+    Étudiant en <strong>Bachelor Cybersécurité</strong> combinant compétences techniques et <strong>10 ans d'expérience professionnelle</strong>.<br>
+    Au-delà du scripting et du réseau, j'apporte une <strong>maturité opérationnelle</strong>, une rigueur analytique (Lauréat Olympiades de Mathématiques) et une vision stratégique de la sécurité des actifs.<br>
+    <i>Créateur de challenges pour le CTF Hack'in & Passionné de Forensic, OSINT.</i>
+  </p>
 
   <br/>
 
