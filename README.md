@@ -13,8 +13,8 @@
   </a>
 
  <br/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4Ynd5ZmZ5Zmx5Zmx5Zmx5Zmx5Zmx5Zmx5Zmx5ZmZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKv6MgQfdSRT01G/giphy.gif" width="700" height="150" style="object-fit: cover; border-radius: 15px;"/>
-<br/>
+ 
+ <br/>
 
   <p align="center" style="font-size: 1.1rem;">
     Étudiant en <strong>Bachelor Cybersécurité</strong> combinant compétences techniques et <strong>10 ans d'expérience professionnelle</strong>.<br>
