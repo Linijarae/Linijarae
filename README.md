@@ -12,9 +12,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Looking+for+Apprenticeship+%28Alternance%29;More+than+10+Years+Professional+Maturity;CTF+Challenge+Creator+%40+Hack%27in;Forensic+%7C+Scripting" alt="" />
   </a>
 
-  <br/>
-  <img src="https://i.pinimg.com/originals/a2/01/37/a20137c019ebf093067710d910464349.gif" width="700" height="180" style="object-fit: cover; border-radius: 15px;"/>
-  <br/>
+ <br/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4Ynd5ZmZ5Zmx5Zmx5Zmx5Zmx5Zmx5Zmx5Zmx5ZmZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKv6MgQfdSRT01G/giphy.gif" width="700" height="150" style="object-fit: cover; border-radius: 15px;"/>
+<br/>
 
   <p align="center" style="font-size: 1.1rem;">
     Étudiant en <strong>Bachelor Cybersécurité</strong> combinant compétences techniques et <strong>10 ans d'expérience professionnelle</strong>.<br>
