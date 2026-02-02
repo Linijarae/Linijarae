@@ -7,14 +7,15 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Alexis%20Dupin&fontSize=70&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Student%20@%20Ynov%20%7C%20Linijarae&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
 
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Looking+for+Apprenticeship+%28Alternance%29;More+than+10+Years+Professional+Maturity;CTF+Challenge+Creator+%40+Hack%27in;Forensic+%7C+Scripting" alt="" />
   </a>
 
- <br/>
- 
- <br/>
+  <br/>
+  
+  <img src="https://raw.githubusercontent.com/platane/platane/master/images/github-isometric-2.png" width="100%" style="max-width: 800px; margin: 20px 0;" alt="Cyber isometric illustration" />
+  
+  <br/>
 
   <p align="center" style="font-size: 1.1rem;">
     Étudiant en <strong>Bachelor Cybersécurité</strong> combinant compétences techniques et <strong>10 ans d'expérience professionnelle</strong>.<br>
@@ -26,6 +27,9 @@
 
   <a href="mailto:dupin.alexis13@gmail.com">
     <img src="https://img.shields.io/badge/Hire_Me-Send_Email-2ea44f?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
+  </a>
+  &nbsp; <a href="LIEN_VERS_TON_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=30" />
   </a>
 
   <br/><br/>
