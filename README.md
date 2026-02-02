@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Alexis%20Dupin&fontSize=70&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Student%20@%20Ynov%20%7C%20Linijarae&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
 
 <br/>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI5bnZ6MmR6cnZ6M3Z6cnZ6cnZ6cnZ6cnZ6cnZ6cnZ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kyUEtpRfkJ5zW/giphy.gif" width="700" style="border-radius: 15px;"/>
+<img src="https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif" width="700" style="border-radius: 15px; opacity: 0.8;"/>
 <br/>
 
   <a href="https://git.io/typing-svg">
