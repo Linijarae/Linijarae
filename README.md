@@ -26,7 +26,7 @@
   <a href="mailto:dupin.alexis13@gmail.com">
     <img src="https://img.shields.io/badge/Hire_Me-Send_Email-2ea44f?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
   </a>
-  &nbsp; <a href="LIEN_VERS_TON_CV.pdf" target="_blank">
+  &nbsp; <a href="https://github.com/Linijarae/Linijarae/blob/main/docs/cv/CV_Dupin_Alexis_2026_cens.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download_CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=30" />
   </a>
 
