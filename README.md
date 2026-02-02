@@ -13,8 +13,6 @@
 
   <br/>
   
-  <img src="https://raw.githubusercontent.com/platane/platane/master/images/github-isometric-2.png" width="100%" style="max-width: 800px; margin: 20px 0;" alt="Cyber isometric illustration" />
-  
   <br/>
 
   <p align="center" style="font-size: 1.1rem;">
