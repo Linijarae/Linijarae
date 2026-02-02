@@ -7,13 +7,13 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Alexis%20Dupin&fontSize=70&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Student%20@%20Ynov%20%7C%20Linijarae&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
 
+<img src="https://media.giphy.com/media/QuehO0XWOpSfbL3FCD/giphy.gif" width="300" style="border-radius: 10px; box-shadow: 0px 0px 20px #F75C7E;" />
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Looking+for+Apprenticeship+%28Alternance%29;More+than+10+Years+Professional+Maturity;CTF+Challenge+Creator+%40+Hack%27in;Forensic+%7C+Scripting" alt="" />
   </a>
 
   <br/>
-  
-  <img src="https://github.com/Linijarae.png" width="140" style="border-radius: 50%; border: 4px solid #F75C7E; box-shadow: 0px 0px 20px #F75C7E;"/>
   
   <br/>
 
