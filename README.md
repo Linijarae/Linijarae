@@ -17,8 +17,8 @@
 
   <p align="center" style="font-size: 1.1rem;">
     Étudiant en <strong>Bachelor Cybersécurité</strong> combinant compétences techniques et <strong>10 ans d'expérience professionnelle</strong>.<br>
-    Au-delà du scripting et du réseau, j'apporte une <strong>maturité opérationnelle</strong>, une rigueur analytique (Lauréat Olympiades de Mathématiques) et une vision stratégique de la sécurité des actifs.<br>
-    <i>Créateur de challenges pour le CTF Hack'in & Passionné de Forensic, OSINT.</i>
+    Au-delà du scripting et du réseau, j'apporte une <strong>maturité opérationnelle</strong>, une rigueur analytique (Lauréat Olympiades de Mathématiques) et une vision stratégique de la sécurité des actifs que je souhaite appliquer dans un poste de GRC ou de SOC.<br>
+    <i>Créateur de challenges pour le CTF Hack'in & Passionné de Forensic, OSINT. Je cherche un poste en GRC ou SOC pour allier métier et passion.</i>
   </p>
 
   <br/>
